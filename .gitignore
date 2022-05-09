@@ -1,0 +1,12 @@
+.idea
+logs/*
+
+# node modules files
+node_modules/
+package-lock.json
+.vscode/*
+
+# environment variables
+.env
+
+.DS_STORE
